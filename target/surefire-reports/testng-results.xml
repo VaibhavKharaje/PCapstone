@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-08T04:45:19Z" name="Suite" finished-at="2024-03-08T04:46:05Z" duration-ms="46257">
+    <groups>
+    </groups>
+    <test started-at="2024-03-08T04:45:19Z" name="Test" finished-at="2024-03-08T04:46:05Z" duration-ms="46257">
+      <class name="com.crm.qa.testcases.Transactiontest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.Transactiontest@479ceda0]" started-at="2024-03-08T10:15:55Z" name="setUp" finished-at="2024-03-08T10:15:58Z" duration-ms="2596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCustomerActions()[pri:0, instance:com.crm.qa.testcases.Transactiontest@479ceda0]" started-at="2024-03-08T10:15:58Z" name="testCustomerActions" finished-at="2024-03-08T10:16:00Z" duration-ms="2198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomerActions -->
+      </class> <!-- com.crm.qa.testcases.Transactiontest -->
+      <class name="com.crm.qa.testcases.Openaccount">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.Openaccount@20435c40]" started-at="2024-03-08T10:15:47Z" name="setUp" finished-at="2024-03-08T10:15:49Z" duration-ms="2323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testOpenAccount()[pri:0, instance:com.crm.qa.testcases.Openaccount@20435c40]" started-at="2024-03-08T10:15:49Z" name="testOpenAccount" finished-at="2024-03-08T10:15:51Z" duration-ms="2064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOpenAccount -->
+      </class> <!-- com.crm.qa.testcases.Openaccount -->
+      <class name="com.crm.qa.testcases.Addcustomerblank">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.Addcustomerblank@7fcf2fc1]" started-at="2024-03-08T10:15:24Z" name="setUp" finished-at="2024-03-08T10:15:26Z" duration-ms="2285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addcustest1()[pri:0, instance:com.crm.qa.testcases.Addcustomerblank@7fcf2fc1]" started-at="2024-03-08T10:15:26Z" name="addcustest1" finished-at="2024-03-08T10:15:28Z" duration-ms="2282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustest1 -->
+      </class> <!-- com.crm.qa.testcases.Addcustomerblank -->
+      <class name="com.crm.qa.testcases.deletetest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.deletetest@2141a12]" started-at="2024-03-08T10:15:28Z" name="setUp" finished-at="2024-03-08T10:15:31Z" duration-ms="2488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testBankCustomer()[pri:0, instance:com.crm.qa.testcases.deletetest@2141a12]" started-at="2024-03-08T10:15:31Z" name="testBankCustomer" finished-at="2024-03-08T10:15:32Z" duration-ms="1633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBankCustomer -->
+      </class> <!-- com.crm.qa.testcases.deletetest -->
+      <class name="com.crm.qa.testcases.withdrawvalidtest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.withdrawvalidtest@6d07a63d]" started-at="2024-03-08T10:16:00Z" name="setUp" finished-at="2024-03-08T10:16:02Z" duration-ms="2205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCustomerActions()[pri:0, instance:com.crm.qa.testcases.withdrawvalidtest@6d07a63d]" started-at="2024-03-08T10:16:02Z" name="testCustomerActions" finished-at="2024-03-08T10:16:05Z" duration-ms="2603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomerActions -->
+      </class> <!-- com.crm.qa.testcases.withdrawvalidtest -->
+      <class name="com.crm.qa.testcases.Deposittest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.Deposittest@4196c360]" started-at="2024-03-08T10:15:32Z" name="setUp" finished-at="2024-03-08T10:15:35Z" duration-ms="2355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCustomerActions()[pri:0, instance:com.crm.qa.testcases.Deposittest@4196c360]" started-at="2024-03-08T10:15:35Z" name="testCustomerActions" finished-at="2024-03-08T10:15:37Z" duration-ms="2595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomerActions -->
+      </class> <!-- com.crm.qa.testcases.Deposittest -->
+      <class name="com.crm.qa.testcases.invdeposittest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.invdeposittest@41294f8]" started-at="2024-03-08T10:15:37Z" name="setUp" finished-at="2024-03-08T10:15:39Z" duration-ms="2129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCustomerActions()[pri:0, instance:com.crm.qa.testcases.invdeposittest@41294f8]" started-at="2024-03-08T10:15:39Z" name="testCustomerActions" finished-at="2024-03-08T10:15:42Z" duration-ms="2807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomerActions -->
+      </class> <!-- com.crm.qa.testcases.invdeposittest -->
+      <class name="com.crm.qa.testcases.Invwithdrawtest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.Invwithdrawtest@225129c]" started-at="2024-03-08T10:15:42Z" name="setUp" finished-at="2024-03-08T10:15:44Z" duration-ms="2176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCustomerActions()[pri:0, instance:com.crm.qa.testcases.Invwithdrawtest@225129c]" started-at="2024-03-08T10:15:44Z" name="testCustomerActions" finished-at="2024-03-08T10:15:47Z" duration-ms="2696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomerActions -->
+      </class> <!-- com.crm.qa.testcases.Invwithdrawtest -->
+      <class name="com.crm.qa.testcases.Addcustomer">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.Addcustomer@60b4beb4]" started-at="2024-03-08T10:15:19Z" name="setUp" finished-at="2024-03-08T10:15:21Z" duration-ms="2556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addcustest()[pri:0, instance:com.crm.qa.testcases.Addcustomer@60b4beb4]" started-at="2024-03-08T10:15:21Z" name="addcustest" finished-at="2024-03-08T10:15:24Z" duration-ms="2396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustest -->
+      </class> <!-- com.crm.qa.testcases.Addcustomer -->
+      <class name="com.crm.qa.testcases.Searchcustomer">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.Searchcustomer@573906eb]" started-at="2024-03-08T10:15:51Z" name="setUp" finished-at="2024-03-08T10:15:54Z" duration-ms="2186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testBankCustomer()[pri:0, instance:com.crm.qa.testcases.Searchcustomer@573906eb]" started-at="2024-03-08T10:15:54Z" name="testBankCustomer" finished-at="2024-03-08T10:15:55Z" duration-ms="1660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBankCustomer -->
+      </class> <!-- com.crm.qa.testcases.Searchcustomer -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

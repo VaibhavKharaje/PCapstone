@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.crm.qa.testcases.Addcustomer"></class>
+			<class name="com.crm.qa.testcases.invcustomertest"></class>
+			<class name="com.crm.qa.testcases.deletetest"></class>
+			<class name="com.crm.qa.testcases.Deposittest"></class>
+			<class name="com.crm.qa.testcases.invdeposittest"></class>
+			<class name="com.crm.qa.testcases.Invwithdrawtest"></class>
+			<class name="com.crm.qa.testcases.Openaccount"></class>
+			<class name="com.crm.qa.testcases.Searchcustomer"></class>
+			<class name="com.crm.qa.testcases.Transactiontest"></class>
+			<class name="com.crm.qa.testcases.withdrawvalidtest"></class>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
